@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anbesha Thapa</h1>
 <h3 align="center">Discovering myself</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/anbeshathapa@gmail.com" target="blank"><img src="https://img.shields.io/twitter/follow/anbeshathapa@gmail.com?logo=twitter&style=for-the-badge" alt="anbeshathapa@gmail.com" /></a> </p>
-
 - 🔭 I’m currently working on **Nutrition and Health Tracker**
 
 - 🌱 I’m currently learning **Flutter and Firebase**
