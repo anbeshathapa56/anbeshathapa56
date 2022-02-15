@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **anbeshathapa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
