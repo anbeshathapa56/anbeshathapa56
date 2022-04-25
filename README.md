@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anbesha Thapa</h1>
 <h3 align="center">Discovering myself</h3>
 
-- 🔭 I’m currently working on **Nutrition and Health Tracker**
-
 - 🌱 I’m currently learning **Flutter and Firebase**
 
 - 📫 How to reach me **anbeshathapa@gmail.com**
